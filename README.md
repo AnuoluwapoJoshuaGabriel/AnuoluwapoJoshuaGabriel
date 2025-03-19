@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnuoluwapoJoshuaGabriel
-- 👀 I’m interested in ...Product design,large language models,tensor flow,cybersecurity.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Product designs, LLM projects.
+- 👀 I’m interested in ...Product management,LLM,tensor flow,Digital safety.
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on Digital safety, ethical AI projects
 - 📫 How to reach me ...through my inbox.
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I like to take on tasks that are challenging.
